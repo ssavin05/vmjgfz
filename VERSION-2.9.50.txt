@@ -1,0 +1,6 @@
+Smart Hub 2.9.50
+
+- “Ahora no” aplaza el aviso automático de instalación durante 3 días.
+- Configuración incluye siempre “Aplicación Smart Hub” con acceso manual a Instalar mientras no esté instalada.
+- Si Smart Hub ya corre como PWA instalada, Configuración muestra que ya está instalada.
+- Funciona en PC y celular según las capacidades de instalación del navegador.

@@ -1,0 +1,5 @@
+Smart Hub 2.9.54
+
+Cambio único:
+- Se quitó únicamente la opción “Espacios” del menú lateral del panel de administración.
+- Todo lo demás permanece igual que en 2.9.52, incluyendo la ruta/pantalla de Espacios y Tarifas.

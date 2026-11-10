@@ -1,0 +1,2 @@
+Smart Hub 2.9.46
+- Checkbox Ilimitado compacto en cupones.

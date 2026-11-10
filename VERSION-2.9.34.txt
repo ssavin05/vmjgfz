@@ -1,0 +1,8 @@
+Smart Hub 2.9.34
+Cupones y promociones
+- Módulo Administración > Cupones.
+- Códigos generales o por espacio.
+- Vigencia, límites de uso y activación.
+- Campo de descuento durante la reserva.
+- Validación segura mediante RPC.
+- Incluye migracion-20-cupones-descuento.sql.

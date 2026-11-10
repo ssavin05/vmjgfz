@@ -1,0 +1,7 @@
+Smart Hub 2.9.52
+
+- Panel flotante de reservaciones para administración.
+- Chrome/Edge: Document Picture-in-Picture tipo mini reproductor, siempre visible cuando el navegador lo permite.
+- Respaldo: ventana compacta emergente.
+- Muestra reservas de hoy, ocupadas ahora, pendientes y próximas.
+- Actualización automática cada 30 segundos.

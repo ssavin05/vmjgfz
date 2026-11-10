@@ -1,0 +1,5 @@
+SMART HUB BUILD 2.9.28
+En Recuperar contraseña debe verse:
+BOTÓN DE PRUEBA 2.9.28 — NO HACE NADA
+Main: js/main-2928.js
+Recovery: js/views/restablecer-password-2928.js

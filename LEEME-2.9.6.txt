@@ -1,0 +1,7 @@
+Sube y extrae este ZIP en la misma carpeta de cPanel donde está el index.html actual.
+Acepta sobrescribir los archivos.
+
+2.9.6:
+- usuarios normales ya no ven opciones para convertirse en administradores;
+- sólo staff/admin/superadmin ven acceso administrativo;
+- conserva las fotos corregidas A/B/C/D de 2.9.5.

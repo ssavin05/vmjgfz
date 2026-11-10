@@ -1,0 +1,8 @@
+Smart Hub 2.9.33
+
+- Reduce la sección “Conoce nuestros espacios” en Inicio.
+- En PC ahora usa un diseño horizontal compacto: texto a la izquierda e imagen a la derecha.
+- Limita la imagen a 620 px de ancho y 390 px de alto para evitar que domine toda la pantalla.
+- En celular conserva el diseño a una columna y la imagen se adapta al ancho disponible.
+- Conserva los fixes anteriores de Favoritos e inicio de sesión duplicado.
+- Actualiza la versión de caché del service worker para que el nuevo CSS cargue al desplegar.

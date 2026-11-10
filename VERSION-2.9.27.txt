@@ -1,0 +1,4 @@
+SMART HUB BUILD 2.9.27
+Si puedes abrir este archivo en el dominio, el hosting sí recibió la versión nueva.
+Recovery module: js/views/restablecer-password-2927.js
+Main module: js/main-2927.js

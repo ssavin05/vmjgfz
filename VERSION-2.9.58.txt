@@ -1,0 +1,4 @@
+Smart Hub 2.9.58
+- Corrige acceso de Dueño a la Bitácora mediante helper SECURITY DEFINER.
+- Evita que RLS de usuarios bloquee la comprobación de superadmin.
+- Requiere ejecutar supabase/migracion-25-corregir-acceso-bitacora.sql una vez.

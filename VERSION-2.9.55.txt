@@ -1,0 +1,8 @@
+Smart Hub 2.9.55
+
+- Tres rangos visibles: Dueño, Encargado y Usuario.
+- El Dueño puede subir y bajar rangos desde Clientes.
+- Saul puede quedar como Dueño protegido: no se puede bajar desde la app.
+- Cambio de rangos mediante RPC segura de Supabase.
+- Se conserva el resto de la app y Espacios sigue oculto sólo del menú del Dashboard.
+- Ejecutar supabase/migracion-23-tres-rangos-y-dueno-protegido.sql una vez.

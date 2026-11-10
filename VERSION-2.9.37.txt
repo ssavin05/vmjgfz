@@ -1,0 +1,3 @@
+Smart Hub 2.9.37
+- Se agregó acceso rápido a Cupones en el Dashboard administrativo.
+- Conserva el módulo de cupones y los cambios anteriores.

@@ -1,0 +1,5 @@
+Smart Hub 2.9.32
+- Conserva los fixes anteriores de Favoritos e inicio de sesión duplicado.
+- Agrega en Inicio la sección "Conoce nuestros espacios".
+- Incluye la nueva imagen general de Baja Smart Hub dentro del proyecto.
+- Diseño responsive para celular y escritorio.

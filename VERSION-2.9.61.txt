@@ -1,0 +1,8 @@
+Smart Hub 2.9.61
+FIX: Reservaciones administrativas
+
+- adminReservas ya no depende de la relación embebida usuarios(...) para recuperar reservas.
+- Primero recupera las reservas de la organización y después resuelve usuarios por separado.
+- Usa cliente_nombre/cliente_email como respaldo.
+- Espera la organización real antes de consultar.
+- Mantiene fecha, horario, espacio, folio y estado de la reserva.

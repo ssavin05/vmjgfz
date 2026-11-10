@@ -1,0 +1,7 @@
+Smart Hub 2.9.56
+
+- Bitácora de auditoría para Dueño.
+- Registra cambios de rangos, reservas, pagos y cupones.
+- Sólo Dueño puede consultar la bitácora.
+- Los registros no se pueden editar ni borrar desde la app.
+- Ejecutar supabase/migracion-24-bitacora-auditoria.sql una sola vez.

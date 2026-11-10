@@ -1,0 +1,6 @@
+Smart Hub 2.9.51
+
+- Windows/Android: el botón Instalar ya no abre el modal de instrucciones de Chrome/Edge.
+- Si beforeinstallprompt está disponible, abre directamente la confirmación nativa del navegador.
+- Si el Service Worker aún no controla la primera visita, hace una sola recarga de activación.
+- iPhone/iPad conserva las instrucciones necesarias de Safari.

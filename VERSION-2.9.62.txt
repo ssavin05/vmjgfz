@@ -1,0 +1,8 @@
+Smart Hub 2.9.62
+FIX: Reservaciones administrativas no mostraba reservas de la empresa correcta
+
+- La organización activa de administración ahora se resuelve desde la membresía real de la sesión.
+- Ya no se usa ciegamente la primera organización activa de la base.
+- Se conserva la empresa seleccionada sólo si pertenece a la sesión.
+- Mantiene la corrección 2.9.61 que evita depender de la relación embebida usuarios(...).
+- Las reservas siguen mostrando cliente_nombre/email como respaldo.
